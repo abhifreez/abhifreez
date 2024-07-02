@@ -1,4 +1,4 @@
-- 👋 Hi, I’m abhinav working as Prinicipal Architect | Head Of Mobile  
+- 👋 Hi, I’m abhinav working as Prinicipal Architect | Head Of Engineering   
 - 👀 I’m interested in maths, mobile application development and some beer.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on and crazy projects,
